@@ -5,7 +5,7 @@ __pycache__/
 *$py.class
 
 subtitles
-
+logs/
 
 # C extensions
 *.so
